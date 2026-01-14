@@ -1,0 +1,9 @@
+sentence-transformers
+torch
+numpy
+fastapi
+uvicorn
+bert-score
+rouge-score
+python-multipart
+pydantic

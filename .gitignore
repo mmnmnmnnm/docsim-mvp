@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# Virtual envs
+venv/
+.env/
+.env*/
+.venv/
+.venv*/
+
+# PyCharm / IDE
+.idea/
+.vscode/
+
+# Byte-compiled / optimized
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db

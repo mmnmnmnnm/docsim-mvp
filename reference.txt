@@ -1,0 +1,123 @@
+Rewritten and anonymized version of the original SEC prospectus document.
+
+This document is a rephrased, modified version of the original text. Numerical values,
+dates, company identifiers, addresses, and several descriptions have been altered
+for illustrative and educational purposes only.
+
+---
+
+REGISTRATION STATEMENT (AMENDED)
+
+Filed with the Securities and Exchange Commission on April 12, 2001
+
+Registration No.: 333-ABCDE
+
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM S-1/A
+Under the Securities Act of 1933
+
+NetWave Solutions, Inc.
+(Exact name of registrant as specified in its charter)
+
+State of Incorporation: Delaware
+Primary SIC Code: 7389
+IRS Employer ID: 12-3456789
+
+Principal Executive Offices:
+1600 Innovation Parkway
+Plano, Texas 75024
+Telephone: (972) 555-7812
+
+Agent for Service:
+Robert L. Harris, Chairman
+Emily Chen, President & CEO
+NetWave Solutions, Inc.
+1600 Innovation Parkway
+Plano, Texas 75024
+
+---
+
+PROSPECTUS SUMMARY
+
+NetWave Solutions, Inc. is a provider of high-speed broadband connectivity and
+internet-based digital services delivered through a privately managed national
+IP network. Our services are marketed under the NetWave™ brand and are designed
+to provide consistently high availability, low latency, and enhanced multimedia
+performance for residential and commercial users.
+
+We put multiple access technologies, including fiber-to-the-building,
+enhanced DSL, fixed wireless, and Ethernet-based solutions. Our network
+architecture is designed to bypass congestion commonly associated with the
+public internet by managing traffic end-to-end.
+
+As of December 31, 2000, we had active service agreements covering approximately
+820,000 potential residential and commercial locations. Infrastructure had been
+constructed for roughly 55,000 locations, supporting more than 4,600 active
+subscribers, representing a penetration rate of approximately 8.4%.
+
+Our national backbone consisted of 34 operational points of presence (POPs)
+across 35 metropolitan markets. By the end of fiscal year 2001, we expect to
+expand to over 60 POPs serving more than 65 markets nationwide.
+
+---
+
+SELECTED FINANCIAL DATA
+(Amounts in thousands, except per-share data)
+
+Year Ended December 31:
+1998 | 1999 | 2000
+
+Total Revenue:
+$4,250 | $2,100 | $1,650
+
+Operating Loss:
+$(1,020) | $(4,300) | $(18,750)
+
+Net Loss:
+$(1,180) | $(4,520) | $(19,980)
+
+Net Loss per Share:
+$(0.07) | $(0.22) | $(0.81)
+
+---
+
+RISK FACTORS (SUMMARY)
+
+• Limited operating history in broadband services limits predictability
+• Continued operating losses and negative cash flows expected
+• Dependence on third-party infrastructure and service partners
+• Highly competitive market with well-capitalized competitors
+• Rapid technological change may render services obsolete
+• Need for additional capital to support long-term growth
+• Potential regulatory changes impacting broadband deployment
+
+---
+
+USE OF PROCEEDS
+
+We estimate net proceeds of approximately $98 million from this offering,
+assuming a midpoint offering price of $14.50 per share. Proceeds will be used
+primarily for:
+
+• $48 million for continued network expansion
+• $27 million for working capital and operations
+• $8 million for repayment of preferred dividends
+• $15 million for general corporate purposes
+
+---
+
+DIVIDEND POLICY
+
+We have not declared or paid dividends on our common stock and do not anticipate
+doing so in the foreseeable future. All earnings will be retained to support
+business growth.
+
+---
+
+This document contains forward-looking statements subject to risks and
+uncertainties. Actual results may differ materially.
+
+---

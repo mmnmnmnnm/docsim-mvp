@@ -1,0 +1,121 @@
+Completely reworked and independently worded version of the previous document.
+
+This text is intentionally rewritten from scratch. Sentence structure, ordering,
+terminology, numeric values, and emphasis have all been changed to ensure clear
+distinction from earlier versions while retaining a realistic IPO prospectus tone.
+
+---
+
+AMENDED SEC REGISTRATION STATEMENT
+
+Filed: September 18, 2003
+Registration Identifier: 333-QW789
+
+U.S. SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+
+FORM S-1/A
+Registration Under the Securities Act of 1933
+
+SkyBridge Digital Corp.
+(Legal name of registrant)
+
+Incorporated in: Delaware
+Industry Code: 7375
+Federal Tax ID: 54-9081726
+
+Head Office:
+9800 Technology Way
+Richardson, Texas 75081
+Phone: (214) 555-6620
+
+Authorized Representatives:
+Alan T. Monroe – Chair of the Board
+Sofia Ramirez – Chief Executive Officer
+SkyBridge Digital Corp.
+9800 Technology Way
+Richardson, Texas 75081
+
+---
+
+BUSINESS OVERVIEW
+
+SkyBridge Digital Corp. develops and operates managed high-capacity internet access
+solutions supported by a privately owned IP backbone. The company focuses on
+delivering stable, high-throughput connectivity optimized for modern digital
+applications, including streaming media, cloud services, and enterprise workloads.
+
+Rather than relying solely on the public internet, SkyBridge manages traffic across
+its own infrastructure, enabling tighter performance control and improved service
+consistency. Customer connections are provisioned using a mix of fiber-based access,
+licensed microwave links, upgraded copper technologies, and dedicated Ethernet
+deployments.
+
+As of June 30, 2002, SkyBridge held long-term access rights covering approximately
+1.05 million residential and commercial units. Network construction had been
+completed for roughly 81,000 units, supporting 7,420 active subscribers. This
+corresponds to an estimated adoption rate of 9.2%.
+
+The core network operated through 48 points of presence located in 50 major U.S.
+metro areas. Management expects to increase coverage to nearly 80 points of
+presence across more than 85 markets by the end of 2003.
+
+---
+
+CONDENSED FINANCIAL HIGHLIGHTS
+(USD thousands, except per-share amounts)
+
+Fiscal Years Ended December 31:
+2000 | 2001 | 2002
+
+Revenue:
+$2.980 | $2,540 | $2,310
+
+Operating Loss:
+$(2,140) | $(6,880) | $(24,600)
+
+Net Loss:
+$(2,320) | $(7,120) | $(25,950)
+
+Loss per Common Share:
+$(0.14) | $(0.33) | $(0.97)
+
+---
+
+RISK OVERVIEW
+
+Investment in the company involves a high degree of risk, including but not limited to:
+• Limited operating history in broadband infrastructure services
+• Sustained operating losses and negative cash generation
+• Heavy reliance on external network partners and property owners
+• Aggressive competition from incumbent telecommunications providers
+• Rapid evolution of access and networking technologies
+• Potential changes in telecommunications and spectrum regulation
+
+---
+
+PLANNED USE OF OFFERING PROCEEDS
+
+Assuming an initial offering price of $18.75 per share, the company expects net
+proceeds of approximately $128 million. Management currently intends to allocate
+these funds as follows:
+
+• $62.5 million toward backbone expansion and access network deployment
+• $36 million for operational scaling and customer acquisition
+• $11 million for settlement of outstanding preferred equity obligations
+• $19 million for general corporate initiatives and strategic flexibility
+
+---
+
+DIVIDEND POLICY STATEMENT
+
+The firm has not distributed dividends on its common stock to date and does not
+anticipate paying dividends in the foreseeable future. Earnings, if any, will be
+retained to support ongoing growth and infrastructure investment.
+
+---
+
+This document includes forward-looking statements that involve assumptions and risks.
+Actual outcomes may differ materially from those expressed or implied herein.
+
+---
